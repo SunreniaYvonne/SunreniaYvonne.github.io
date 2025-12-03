@@ -13,7 +13,7 @@ redirect_from:
 孙韵雯, 北京师范大学新闻传播学院2022级本科生。  
 SUN YUNWEN, a 2022 undergraduate student from [School of Journalism and Communication](https://sjc.bnu.edu.cn/), [Beijing Normal University](https://www.bnu.edu.cn).   
 主修(Major): 传播学, Communication  
-辅修(Minor): 统计学, Statics
+辅修(Minor): 统计学, Statistics
 
 
   
