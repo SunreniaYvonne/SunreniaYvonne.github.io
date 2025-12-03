@@ -19,10 +19,10 @@ SUN YUNWEN, a 2022 undergraduate student from [School of Journalism and Communic
   
 教育经历 Education  
 ===
-2022.09-2026.06  北京师范大学新闻传播学院, 传播学（主修）, 统计学（辅修）  
-                 School of Journalism and Communication, Beijing Normal University, Communication(Major), Statics(Minor)  
-2025.08-2025.12 香港城市大学媒体与传播系交换学习  
-                Exchange at School of Media and Communication, City University of Hong Kong  
+2022.09-2026.06` `北京师范大学新闻传播学院, 传播学（主修）, 统计学（辅修）  
+`                 `School of Journalism and Communication, Beijing Normal University, Communication(Major), Statics(Minor)  
+2025.08-2025.12` `香港城市大学媒体与传播系交换学习  
+`                 `Exchange at School of Media and Communication, City University of Hong Kong  
   
   
 研究兴趣 Research Interest  
@@ -62,10 +62,10 @@ Wu, P., **Sun, Y.**, Yang, M., Liu, Q. (2025). When News Finds You: Algorithm Au
   
 工作实习 Internship  
 ===
-2024.12-2025.06  《财经》杂志证券组实习记者  
-                 Intern Reporter of _Caijing_   
-2024.06-2025.06  参与国家计算机网络与信息安全管理中心委托项目  
-                 Participating in projects commissioned by CNCERT  
+2024.12-2025.06` `《财经》杂志证券组实习记者  
+`                 `Intern Reporter of _Caijing_   
+2024.06-2025.06` `参与国家计算机网络与信息安全管理中心委托项目  
+`                 `Participating in projects commissioned by CNCERT  
   
   
   
