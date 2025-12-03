@@ -1,55 +1,66 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "孙韵雯 SUN YUNWEN"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+孙韵雯, 北京师范大学新闻传播学院2022级本科生。
+SUN YUNWEN, a 2022 undergraduate student from [School of Journalism and Communication](https://sjc.bnu.edu.cn/), [Beijing Normal University](https://www.bnu.edu.cn). 
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
-
-A data-driven personal website
+**联系方式 Contact Me**
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+[Email](mailto:yunwensun@mail.bnu.edu.cn): yunwensun@mail.bnu.edu.cn
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
-
-Getting started
+**教育经历 Education**
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+2022.09-2026.06  北京师范大学新闻传播学院, 传播学（主修）, 统计学（辅修）
+                 School of Journalism and Communication, Beijing Normal University, Communication(Major), Statics(Minor)
+2025.08-2025.12 香港城市大学媒体与传播系交换学习
+                Exchange at School of Media and Communication, City University of Hong Kong
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+**研究兴趣 Research Interest**
+======
+计算传播, 公共关系, 媒介技术与社会发展
+Computational Communication, Public Relation, Media Technology and Social Development
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+**论文信息 Publications**
+======
+期刊论文/Journal Papers:
+刘茜, 李泽源, **孙韵雯**等. (2025). 基于社交机器人的跨平台国际传播触达效果及影响因素研究——以《黑神话：悟空》为例. _新媒体与社会_, 1-20[2025-09-02]. http://kns.cnki.net/kcms/detail/CN.20250826.1316.006.html
+姜申, **孙韵雯**, 肖婉婷, 林婧妍. (2025). 从技艺到记忆：饮食类非遗的印象塑造与认知建构._中国非物质文化遗产_, 2025(04): 69-77.
+**孙韵雯**, 刘茜. (2025). 技术赋能下的创收路径与战略重构：AIGC对主流媒体产业经营的影响. _现代视听_, 2025(02): 10-16.
+**Sun, Y.**, Lin, J., Miao, R., & Xiao, W. (2025). “Locality” as a method: a study on local international communication strategies based on grounded theory. _International Communication of Chinese Culture_. https://doi.org/10.1007/s40636-025-00337-y
 
-**Markdown generator**
+会议论文/Conference Papers:
+Wu, P., **Sun, Y.**, Liu, Q., Wu, Y. (2025). Algorithm Paradox：The Dual Pathway of Algorithm Resistance and Addiction, 75th International Communication Association Annual Conference.
+Li, Q., Liu, N., Liu, Q., Wu, Y., **Sun, Y.** (2025). Human Enough？ Exploring the Essential Realism in Voice, Appearance, and Gender for AI News Anchors, 75th International Communication Association Annual Conference.
+Wu, P., **Sun, Y.**, Yang, M., Liu, Q. (2025). When News Finds You: Algorithm Audit of Incidental Exposure to Mainstream News on Chinese Video Platforms, AEJMC, CTEC.
+**Sun, Y.**, Wu, P. (2025). 视频推荐算法中介下的主流媒体新闻偶遇——一项基于虚拟代理测试的算法审计研究, SJTU-IAMCR Emerging Media Forum, Shanghai.
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
+**参与课题 Research Project**
+======
+主持人, 研究基金, “议程设置理论下受众非遗认同感的影响因素探究——以非遗饮食‘北京烤鸭’为例”，2023.05，北京师范大学，国家级大学生创新创业训练计划资助项目.
+参与, 研究基金, “增值评价视角下的职业学校投入要素与学生非认知技能发展的关系研究”（72104030）, 2023.07, 北京师范大学，国家自然科学基金青年项目.
+参与, 研究基金, “网络视听国际传播发展模式研究”（GD2338）, 2024.12, 北京师范大学，国家广电总局部级社科研究项目.
+参与, 研究基金, “生成式人工智能内容安全与伦理风险检测关键技术研究及示范应用”（Z231100007423015）, 2025.03, 北京师范大学, 中央引导地方专项北京市科技计划项目.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+**竞赛获奖 Competition Awards**
+======
+主持人, “青创北京”2025年“挑战杯”首都大学生课外学术科技作品竞赛三等奖, “从技艺到记忆：饮食类非遗的平台表征、印象重塑与价值建构”, 2025.05.
+参与, 中国国际大学生创新大赛(2024)北京赛区二等奖, “灵犀智教——AI赋能科创教育解决方案”, 2024.08.
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+**工作实习 Internship**
+======
+2024.12-2025.06  《财经》杂志证券组实习记者
+                 Intern Reporter of _Caijing_ 
+2024.06-2025.06  参与国家计算机网络与信息安全管理中心委托项目
+                 Participating in projects commissioned by CNCERT
+
+
+
 
 For more info
 ------
